@@ -1,6 +1,6 @@
 # Chaotic Neutral
 
-Chaotic Neutral is a friendly font
+Chaotic Neutral is a joyful font
 inspired by my sister's comics.
 
 # Roadmap
